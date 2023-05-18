@@ -1,0 +1,3 @@
+(function(){var loadHandler=window['sl_{B0F30484-E2A5-4462-83EB-8AAA56EED208}'];loadHandler&&loadHandler(0, '<div id="spr0_1e98c8fe"><div id="spr1_1e98c8fe" class="kern slide"><img id="img2_1e98c8fe" src="data/img2.png" width="960px" height="540px" alt="" style="left:0px;top:0px;"/></div><div id="spr2_1e98c8fe" class="kern slide"><div id="spr3_1e98c8fe" style="left:960px;top:-12px;"><img id="img0_1e98c8fe" src="data/img0.jpg" width="583" height="960" alt="20190502_201009.jpg" style="left:-0.167px;top:0px;"/></div><div id="spr4_1e98c8fe" style="left:8px;top:87px;"><img id="img1_1e98c8fe" src="data/img1.png" width="451" height="290" alt="Дударскія \
+традыцыі \
+Глыбоччыны"/></div></div></div>', '{"s":[]}');})();
